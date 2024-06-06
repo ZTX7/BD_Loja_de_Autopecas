@@ -15,4 +15,3 @@ Membros:
 
 Disponível no Youtube: https://youtu.be/0A6TCOzcwbA
 
-<a href=“http://exemplo.com/“>Flex Grid</a>
